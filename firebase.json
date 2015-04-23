@@ -1,0 +1,9 @@
+{
+  "firebase": "first-chatroom-demo",
+  "public": "C:\\Users\\acer main\\Documents\\GitHub\\RTFM",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
